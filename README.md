@@ -15,7 +15,7 @@ As an enthusiast of clean code and data engineering, I spend some time learning 
 
 👨🏻‍💻 &nbsp; +4 years working as a Full Stack Developer;
 
-💡 Open minded technologies;
+💡 Open minded about technologies;
 
 🔥 Always improving myself and thinking forward.
 
