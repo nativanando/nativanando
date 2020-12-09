@@ -1,10 +1,7 @@
 
 ## 👋 &nbsp;Hi Folks! I'm Fernando
 
-&nbsp;
-
 ### 📖 &nbsp;About Me
-
 
 I'm a Brazilian Software Engineer with a solid background in web development. I feel comfortable writing code in JavaScript, TypeScript, and Java for the back-end as well as React and TypeScript for the front-end, but I'm very open-minded about technology and it's always exciting to learn new stuff.
 
@@ -21,9 +18,6 @@ As an enthusiast of clean code and data engineering, I spend some time learning 
 💡 Open minded technologies;
 
 🔥 Always improving myself and thinking forward.
-
-&nbsp;
-
 
 ### 🛠 &nbsp; Stack I have already worked with:
 
@@ -47,7 +41,6 @@ As an enthusiast of clean code and data engineering, I spend some time learning 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nativanando&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-&nbsp;
 
 ### 🌐 &nbsp;Connect with Me
 
