@@ -5,7 +5,7 @@
 
 I'm a Brazilian Software Engineer with a solid background in web development. I feel comfortable writing code in JavaScript, TypeScript, and Java for the back-end as well as React and TypeScript for the front-end, but I'm very open-minded about technology and it's always exciting to learn new stuff.
 
-As an enthusiast of clean code and data engineering, I spend some time learning about distributed systems, scalability, availability, and software architecture. On another side, I trust in soft skills as the engine of success to achieve big goals and I believe the human side is as important as the technical background.
+As an enthusiast of clean code and data engineering, I spend some time learning about distributed systems, scalability, availability, and software architecture. On another side, I trust in soft skills as the engine of success to achieve big goals and I believe the human side is just as important as the technical background.
 
 🎓 &nbsp; Computer Science Degree and Post-Graduate Lato Sensu in Systems Analysis, Design and Management;
 
