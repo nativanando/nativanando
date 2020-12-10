@@ -13,7 +13,7 @@ As an enthusiast of clean code and data engineering, I spend some time learning 
 
 🎓 &nbsp; API Designer Certified;
 
-👨🏻‍💻 &nbsp; +4 years working as a Full Stack Developer;
+👨🏻‍💻 &nbsp; +4 years working as Full Stack Developer;
 
 💡 Open minded about technologies;
 
